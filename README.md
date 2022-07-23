@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KirtanT, a rising Senior at Wheeler High School's Magnet Program
-- 👀 I’m interested in Somputer Science (specifically Data Science, Artificial Intelligence, and Machine Learning)
+- 👀 I’m interested in Computer Science (specifically Data Science, Artificial Intelligence, and Machine Learning)
 - 📫 You can reach me at kirtanhthakkar@gmail.com
 
 <!---

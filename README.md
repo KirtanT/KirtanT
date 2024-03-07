@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KirtanT, a Freshman at the Georgia Institute of Technology
+- 👋 Hi, I’m @KirtanT, a student at the Georgia Institute of Technology
 - 👀 I’m interested in Computer Science (specifically Data Science, Artificial Intelligence, and Machine Learning)
 - 📫 You can reach me at kirtanhthakkar@gmail.com
 

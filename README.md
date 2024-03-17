@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KirtanT, a student at the Georgia Institute of Technology
-- 👀 I’m interested in Computer Science (specifically Data Science, Artificial Intelligence, and Machine Learning)
+- 👀 I’m interested in Computer Science (specifically Software Engineering, AI/ML, and Data Science)
 - 📫 You can reach me at kirtanhthakkar@gmail.com
 
 <!---
